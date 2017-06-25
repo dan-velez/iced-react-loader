@@ -12,6 +12,10 @@
     "webpack"
   ],
   "author": "dannynpmjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangitos/iced-react-loader.git"
+  },
   "license": "GPL-3.0",
   "dependencies": {
     "coffee-react-transform": "^5.0.0",
